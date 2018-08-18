@@ -1,0 +1,14 @@
+# Day_1
+>>server to client text share in the console
+     within localhost
+
+first run the server class
+then run the client class
+now two consoles are running in the ide
+after that goto the client console
+then type your  message for the server & hit enter
+you will be redirected to the server console
+now type your message for the client & hit enter
+and u will be redirected to the client console
+
+this process will go on unless u hit -1 to both the consoles
